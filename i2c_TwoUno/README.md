@@ -3,3 +3,8 @@
 
 - slave의 led 주소        0x57
 - led을 제어하는 레지스터  0x01
+
+
+<br>
+### reference
+- https://blog.naver.com/dkwltmdgus/220776103020
